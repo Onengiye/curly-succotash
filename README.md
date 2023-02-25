@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/Screenshot.jpg)
 
-- Solution URL: [QR](https://your-solution-url.com)
+- Solution URL: [QR](https://onengiye.github.io/curly-succotash/)
 
 ## Built with
 
